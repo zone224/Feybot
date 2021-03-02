@@ -33,10 +33,10 @@ ownerNumber = "6213xxxxxx@c.us"
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [TELEGRAM](https://t.me/tobz2k19)
-- [WHATSAPP](https://wa.me/6281311850715)
-- [MY BOT](wa.me/447418349954)
-- [WHATSAPP GROUP](https://chat.whatsapp.com/JMn559mwKhN56fi4Djep4m)
+- [TELEGRAM](https://t.me/pota21)
+- [WHATSAPP](https://wa.me/6282133629784)
+- [MY BOT](wa.me/+13512020550)
+- [WHATSAPP GROUP]()
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
@@ -48,8 +48,8 @@ Apikey Location
 - [SETTING](https://github.com/TobyG74/ElainaBOT/blob/main/lib/database/setting.json)
 
 ## Donate
-- [Saweria](https://saweria.co/ItzTobz)
-- [Dana](https://link.dana.id/qr/17mlqta)
+- [Saweria](https://saweria.co/geprama)
+- [Dana]()
 
 ## Getting Started
 
