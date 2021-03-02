@@ -1,8 +1,7 @@
 # Feybot
 <p align="center">
 <img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
-<img src="https://images.app.goo.gl/Z6w48X9VJhawNaYJ6" alt="GIF" width="128" height="128"/>
-</p>
+
 <p align="center">
 <a href="#"><img title="FEY BOT" src="https://img.shields.io/badge/FEY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -37,7 +36,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 - [TELEGRAM](https://t.me/pota21)
 - [WHATSAPP](https://wa.me/6282133629784)
 - [MY BOT](wa.me/+13512020550)
-- [WHATSAPP GROUP]()
+- [WHATSAPP GROUP](https://chat.whatsapp.com/GmZhPAzCbooCakFaT8tmje)
 
 ## APIKEY
 Open setting.js then edit & paste it in YOUR_APIKEY
