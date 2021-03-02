@@ -1,6 +1,6 @@
 # Feybot
 <p align="center">
-<img src="https://giphy.com/stickers/axolotl-amphibian-salamander-KA6W3P0dEHg2IGp3Z2" alt="GIF" width="128" height="128"/>
+<img src="https://giphy.com/gifs/dream-paz-jinzhan-DGjNMxy83XVd8RdSaS/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="FEY BOT" src="https://img.shields.io/badge/FEY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
