@@ -1,6 +1,6 @@
 # Feybot
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/zone224/feybot/master/media/img/giphy.gif" width="128" height="128"/>
 
 <p align="center">
 <a href="#"><img title="FEY BOT" src="https://img.shields.io/badge/FEY BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
