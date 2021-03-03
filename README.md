@@ -1,4 +1,5 @@
 # Feybot
+# Nanti di upload lagi. 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zone224/feybot/master/media/img/giphy.gif" width="128" height="128"/>
 
